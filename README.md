@@ -1,3 +1,4 @@
+This seems like a fun game and project that i chose for my homework assignment 3 from github
 <p align=center>
  <img src="../master/gameplay.gif" width=700 height = 450/>
 </p>
